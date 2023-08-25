@@ -23,13 +23,13 @@ This project offers a unique way to create engaging German stories based on the 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Dr-Mohamed-Elkholy/German_Story_Generator_from_Images.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd German_Story_Generator_from_Images
 ```
 
 3. Install the required Python packages:
@@ -63,5 +63,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 Provide license information here if applicable.
 
 ---
-
-Replace placeholders like `YOUR_USERNAME`, `YOUR_REPOSITORY_NAME`, and `YOUR_ISSUE_PAGE_LINK` with your actual GitHub details. This description provides an overview of your project, its features, installation steps, and usage instructions in a structured manner.
