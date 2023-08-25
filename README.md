@@ -54,12 +54,21 @@ streamlit run main.py
 2. **Generate Story**: After uploading, the application will automatically extract text and generate a story.
 3. **View Result**: The generated story, along with the extracted text, will be displayed in a bilingual table format.
 
+
+ 
+## Files Overview
+
+- `main.py`: The main driver of the application. Contains the Streamlit interface and calls functions for image processing and story generation.
+- `image_processing.py`: Contains functions for text extraction from images using `pytesseract`.
+- `story_generation.py`: Contains functions for story generation using `OpenAI GPT-3`.
+
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](YOUR_ISSUE_PAGE_LINK).
+Contributions are welcome! Please open an issue or submit a pull request.
+
 
 ## License
 
-Provide license information here if applicable.
+This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ---
